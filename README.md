@@ -1,4 +1,4 @@
 # Used technologies
-emailjs
-gulp
-webpack
+->emailjs
+->gulp
+->webpack
