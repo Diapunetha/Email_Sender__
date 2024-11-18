@@ -1,1 +1,4 @@
-# Email_Sender__
+# Used technologies
+emailjs
+gulp
+webpack
